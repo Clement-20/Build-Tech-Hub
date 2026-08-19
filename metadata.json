@@ -1,0 +1,6 @@
+{
+  "name": "Build Tech Hub",
+  "description": "Ultra professional e-commerce platform for high-grade building materials, structural supplies, AI project material calculator, and contractor bulk orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
